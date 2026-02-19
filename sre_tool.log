@@ -1,0 +1,29 @@
+2026-02-19 07:05:27,701 | DEBUG | sre_tool | Debug message
+2026-02-19 07:05:27,701 | INFO | sre_tool | Info message
+2026-02-19 07:05:27,701 | ERROR | sre_tool | Error message
+2026-02-19 07:10:30,003 | INFO | sre_tool | Info message
+2026-02-19 07:10:30,003 | ERROR | sre_tool | Error message
+2026-02-19 07:10:55,979 | INFO | sre_tool | Info message
+2026-02-19 07:10:55,979 | ERROR | sre_tool | Error message
+2026-02-19 07:16:27,793 | DEBUG | sre_tool | Debug message
+2026-02-19 07:16:27,793 | INFO | sre_tool | Info message
+2026-02-19 07:16:27,793 | ERROR | sre_tool | Error message
+2026-02-19 07:16:38,222 | DEBUG | sre_tool | Debug message
+2026-02-19 07:16:38,222 | INFO | sre_tool | Info message
+2026-02-19 07:16:38,222 | ERROR | sre_tool | Error message
+2026-02-19 07:21:47,589 | INFO | sre_tool | Info message
+2026-02-19 07:21:47,590 | ERROR | sre_tool | Error message
+2026-02-19 07:23:45,538 | DEBUG | sre_tool | checking service auth
+2026-02-19 07:23:45,539 | DEBUG | sre_tool | checking service auth
+2026-02-19 07:23:45,539 | INFO | sre_tool | service auth is fast
+2026-02-19 07:23:45,539 | DEBUG | sre_tool | checking service payments
+2026-02-19 07:23:45,539 | ERROR | sre_tool | service payments is slow
+2026-02-19 07:23:45,539 | INFO | sre_tool | Info message
+2026-02-19 07:23:45,539 | ERROR | sre_tool | Error message
+2026-02-19 07:26:41,827 | DEBUG | sre_tool | checking service auth
+2026-02-19 07:26:41,827 | DEBUG | sre_tool | checking service auth
+2026-02-19 07:26:41,827 | INFO | sre_tool | service auth is fast
+2026-02-19 07:26:41,827 | DEBUG | sre_tool | checking service payments
+2026-02-19 07:26:41,827 | ERROR | sre_tool | service payments is slow
+2026-02-19 07:26:41,827 | INFO | sre_tool | Info message
+2026-02-19 07:26:41,827 | ERROR | sre_tool | Error message
